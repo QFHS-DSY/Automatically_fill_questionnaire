@@ -1,8 +1,3 @@
-"""
-Edge浏览器网页自动化简化版
-功能：打开网页，检测输入框，根据字典自动填写，点击按钮
-"""
-
 import time
 import re
 from selenium import webdriver
